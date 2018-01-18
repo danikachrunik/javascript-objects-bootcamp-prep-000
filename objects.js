@@ -1,3 +1,7 @@
 var playlist = {
-  katyPerry: "Dark Horse"
+  "Katy Perry": "Dark Horse"
 };
+
+function updatePlaylist(pl, artist, title) {
+  
+}
