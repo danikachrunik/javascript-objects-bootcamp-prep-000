@@ -2,6 +2,6 @@ var playlist = {
   "Katy Perry": "Dark Horse"
 };
 
-function updatePlaylist(pl, artist, title) {
+function updatePlaylist(playlist, artist, title) {
   return Object.assign({}, pl, {artist: title});
 }
